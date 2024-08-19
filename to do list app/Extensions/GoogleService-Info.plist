@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDDo1AVrA7ErpPrTBA7QA6AC93ykub1TQA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1041045524428</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.donaldcolin.to-do-list-app</string>
+	<key>PROJECT_ID</key>
+	<string>wave-fe97e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wave-fe97e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1041045524428:ios:6bd3735b984c32e4451769</string>
+</dict>
+</plist>
